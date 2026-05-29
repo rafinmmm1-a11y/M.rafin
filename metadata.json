@@ -1,0 +1,6 @@
+{
+  "name": "ViewTube",
+  "description": "Premium YouTube-style and video exploring application with customizable playlists, bookmarks, and seamless playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
